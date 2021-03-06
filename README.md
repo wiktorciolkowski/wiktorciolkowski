@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiktorciolkowski
 - 👀 I’m interested in software engineering, game programming, internet of things, networking and Linux
-- 🌱 I’m currently learning game development in Java
+- 🌱 I’m currently learning game development in Java and C++
 - 📫 How to reach me: wikcioo@gmail.com
 
 <!---
